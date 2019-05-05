@@ -3,9 +3,9 @@ title: Start Jekyll
 email: taniarascia@gmail.com
 description: >
   A guide to getting started with Jekyll.
-baseurl: "/startjekyll"
+baseurl: "/testjekyll"
 url: "https://gquino.github.io/testjekyll"
-twitter_username: taniarascia
+twitter_username: gustavoqq
 github_username:  taniarascia
 # Build Settings
 sass:
